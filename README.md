@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pulkitchhipa
+- 👋 Hi, I’m @pulkiitchhipa
 
 <!---
 pulkitchhipa/pulkitchhipa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
